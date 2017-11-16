@@ -1,11 +1,11 @@
 {
   "name": "nuxt-trailingslash-module",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "NuxtJS module to remove trailing slashes from URLs",
   "license": "MIT",
   "contributors": [
     {
-      "name": "WilliamDASILVA <william.da.silva@outlook.com>"
+      "name": "William DA SILVA <william.da.silva@outlook.com>"
     }
   ],
   "main": "lib/module.js",
